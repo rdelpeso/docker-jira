@@ -6,3 +6,7 @@ Based on [cptactionhank / atlassian-jira](https://registry.hub.docker.com/u/cpta
 - Centos: 7 or better
 - JRE: 1.8 or better
 - Atlassian Jira: `TAG-version`
+
+## New section
+
+Testing
